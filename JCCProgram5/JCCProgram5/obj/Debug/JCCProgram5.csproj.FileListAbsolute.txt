@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\bin\Debug\JCCProgram5.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\bin\Debug\JCCProgram5.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.Form1.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram5\JCCProgram5\obj\Debug\JCCProgram5.pdb

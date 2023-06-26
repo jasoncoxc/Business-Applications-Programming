@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\bin\Debug\JCCProgram4.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\bin\Debug\JCCProgram4.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.frmStudentStatus.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram4\JCCProgram4\obj\Debug\JCCProgram4.pdb
