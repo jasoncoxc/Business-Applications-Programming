@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\bin\Debug\JCCPRogram14.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\bin\Debug\JCCPRogram14.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.frmControlBreak.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCPRogram14\JCCPRogram14\obj\Debug\JCCPRogram14.pdb
