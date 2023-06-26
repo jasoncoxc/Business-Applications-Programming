@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\bin\Debug\JCCProgram8.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\bin\Debug\JCCProgram8.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.frmTheater.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram8\JCCProgram8\obj\Debug\JCCProgram8.pdb

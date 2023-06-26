@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\bin\Debug\JCCProgram7.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\bin\Debug\JCCProgram7.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram7\JCCProgram7\obj\Debug\JCCProgram7.frmSux.resources
