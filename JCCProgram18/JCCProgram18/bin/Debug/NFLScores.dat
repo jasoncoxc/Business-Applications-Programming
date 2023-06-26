@@ -1,0 +1,272 @@
+1,9/9/2021,Tampa Bay,Dallas,31,29,68633
+1,9/12/2021,Atlanta,Philadelphia,6,32,69787
+1,9/12/2021,Buffalo,Pittsburgh,16,23,70211
+1,9/12/2021,Cincinnati,Minnesota,27,24,56525
+1,9/12/2021,Detroit,San Francisco,33,41,59374
+1,9/12/2021,Tennessee,Arizona,13,38,68105
+1,9/12/2021,Indianapolis,Seattle,16,28,63347
+1,9/12/2021,Washington,LA Chargers,16,20,72973
+1,9/12/2021,Carolina,NY Jets,19,14,70445
+1,9/12/2021,Houston,Jacksonville,37,21,61756
+1,9/12/2021,Kansas City,Cleveland,33,29,65878
+1,9/12/2021,New England,Miami,16,17,35242
+1,9/12/2021,New Orleans,Green Bay,38,3,74119
+1,9/12/2021,NY Giants,Denver,13,27,65566
+1,9/12/2021,LA Rams,Chicago,34,14,67216
+1,9/13/2021,Las Vegas,Baltimore,33,27,52753
+2,9/16/2021,Washington,NY Giants,30,29,60115
+2,9/19/2021,Chicago,Cincinnati,20,17,61756
+2,9/19/2021,Cleveland,Houston,31,21,70675
+2,9/19/2021,Indianapolis,LA Rams,24,27,60840
+2,9/19/2021,Miami,Buffalo,0,35,67431
+2,9/19/2021,NY Jets,New England,6,25,77240
+2,9/19/2021,Philadelphia,San Francisco,11,17,63076
+2,9/19/2021,Pittsburgh,Las Vegas,17,26,58461
+2,9/19/2021,Carolina,New Orleans,26,7,70240
+2,9/19/2021,Jacksonville,Denver,13,13,65040
+2,9/19/2021,Arizona,Minnesota,34,33,75626
+2,9/19/2021,Tampa Bay,Atlanta,48,25,69796
+2,9/19/2021,LA Chargers,Dallas,17,20,63707
+2,9/19/2021,Seattle,Tennessee,30,33,68585
+2,9/19/2021,Baltimore,Kansas City,36,35,63694
+2,9/20/2021,Green Bay,Detroit,35,17,50118
+3,9/23/2021,Houston,Carolina,9,24,68434
+3,9/26/2021,Buffalo,Washington,43,21,67431
+3,9/26/2021,Cleveland,Chicago,26,6,93267
+3,9/26/2021,Detroit,Baltimore,17,19,75882
+3,9/26/2021,Tennessee,Indianapolis,25,16,50788
+3,9/26/2021,Kansas City,LA Chargers,24,30,68320
+3,9/26/2021,New England,New Orleans,13,28,58012
+3,9/26/2021,NY Giants,Atlanta,14,17,72980
+3,9/26/2021,Pittsburgh,Cincinnati,10,24,70205
+3,9/26/2021,Jacksonville,Arizona,19,31,59311
+3,9/26/2021,Denver,NY Jets,26,0,66729
+3,9/26/2021,Las Vegas,Miami,31,28,65878
+3,9/26/2021,LA Rams,Tampa Bay,34,24,75307
+3,9/26/2021,Minnesota,Seattle,30,24,58076
+3,9/26/2021,San Francisco,Green Bay,28,30,69853
+3,9/27/2021,Dallas,Philadelphia,41,21,68434
+4,9/30/2021,Cincinnati,Jacksonville,24,21,68333
+4,10/3/2021,Atlanta,Washington,30,34,68087
+4,10/3/2021,Buffalo,Houston,40,0,61468
+4,10/3/2021,Chicago,Detroit,24,14,63198
+4,10/3/2021,Dallas,Carolina,36,28,93262
+4,10/3/2021,Miami,Indianapolis,17,27,76490
+4,10/3/2021,Minnesota,Cleveland,7,14,78281
+4,10/3/2021,New Orleans,NY Giants,21,27,70240
+4,10/3/2021,NY Jets,Tennessee,27,24,70003
+4,10/3/2021,Philadelphia,Kansas City,30,42,64571
+4,10/3/2021,LA Rams,Arizona,20,37,66703
+4,10/3/2021,San Francisco,Seattle,21,28,65878
+4,10/3/2021,Denver,Baltimore,7,23,69170
+4,10/3/2021,Green Bay,Pittsburgh,27,17,70232
+4,10/3/2021,New England,Tampa Bay,17,19,69796
+4,10/4/2021,LA Chargers,Las Vegas,28,14,68912
+5,10/7/2021,Seattle,LA Rams,17,26,62716
+5,10/10/2021,Atlanta,NY Jets,27,20,60589
+5,10/10/2021,Cincinnati,Green Bay,22,25,70510
+5,10/10/2021,Minnesota,Detroit,19,17,72545
+5,10/10/2021,Pittsburgh,Denver,27,19,64195
+5,10/10/2021,Tampa Bay,Miami,45,17,93476
+5,10/10/2021,Washington,New Orleans,22,33,68450
+5,10/10/2021,Carolina,Philadelphia,18,21,58282
+5,10/10/2021,Jacksonville,Tennessee,19,37,73389
+5,10/10/2021,Houston,New England,22,25,70240
+5,10/10/2021,Las Vegas,Chicago,9,20,59122
+5,10/10/2021,LA Chargers,Cleveland,47,42,66538
+5,10/10/2021,Dallas,NY Giants,44,20,59841
+5,10/10/2021,Arizona,San Francisco,17,10,68747
+5,10/10/2021,Kansas City,Buffalo,20,38,65570
+5,10/11/2021,Baltimore,Indianapolis,31,25,50137
+6,10/14/2021,Philadelphia,Tampa Bay,22,28,70704
+6,10/17/2021,Jacksonville,Miami,23,20,72104
+6,10/17/2021,Chicago,Green Bay,14,24,62332
+6,10/17/2021,Detroit,Cincinnati,11,34,67431
+6,10/17/2021,Indianapolis,Houston,31,3,76854
+6,10/17/2021,NY Giants,LA Rams,11,38,50831
+6,10/17/2021,Washington,Kansas City,13,31,57947
+6,10/17/2021,Carolina,Minnesota,28,34,60784
+6,10/17/2021,Baltimore,LA Chargers,34,6,65878
+6,10/17/2021,Cleveland,Arizona,14,37,73920
+6,10/17/2021,Denver,Las Vegas,24,34,69796
+6,10/17/2021,New England,Dallas,29,35,60821
+6,10/17/2021,Pittsburgh,Seattle,23,20,51322
+6,10/18/2021,Tennessee,Buffalo,34,31,51322
+7,10/21/2021,Cleveland,Denver,17,14,60297
+7,10/24/2021,Green Bay,Washington,24,10,70659
+7,10/24/2021,Tennessee,Kansas City,27,3,67431
+7,10/24/2021,Miami,Atlanta,28,30,78219
+7,10/24/2021,New England,NY Jets,54,13,70540
+7,10/24/2021,NY Giants,Carolina,25,3,62000
+7,10/24/2021,Baltimore,Cincinnati,17,41,62739
+7,10/24/2021,Las Vegas,Philadelphia,33,22,65878
+7,10/24/2021,LA Rams,Detroit,28,19,71889
+7,10/24/2021,Arizona,Houston,31,5,56576
+7,10/24/2021,Tampa Bay,Chicago,8,3,68563
+7,10/24/2021,San Francisco,Indianapolis,18,30,65635
+7,10/25/2021,Seattle,New Orleans,10,13,78219
+8,10/28/2021,Arizona,Green Bay,21,24,63696
+8,10/31/2021,Atlanta,Carolina,13,19,63696
+8,10/31/2021,Buffalo,Miami,26,11,69355
+8,10/31/2021,Chicago,San Francisco,22,33,60877
+8,10/31/2021,Cleveland,Pittsburgh,10,15,67431
+8,10/31/2021,Detroit,Philadelphia,6,44,75973
+8,10/31/2021,Indianapolis,Tennessee,31,34,47192
+8,10/31/2021,NY Jets,Cincinnati,34,31,66013
+8,10/31/2021,Houston,LA Rams,22,38,59175
+8,10/31/2021,LA Chargers,New England,24,27,72898
+8,10/31/2021,Seattle,Jacksonville,31,7,70240
+8,10/31/2021,Denver,Washington,17,10,66633
+8,10/31/2021,New Orleans,Tampa Bay,36,27,69170
+8,10/31/2021,Minnesota,Dallas,16,20,67503
+8,11/1/2021,Kansas City,NY Giants,20,17,67243
+9,11/4/2021,Indianapolis,NY Jets,45,30,65948
+9,11/7/2021,Cincinnati,Cleveland,16,41,72203
+9,11/7/2021,Dallas,Denver,16,30,65451
+9,11/7/2021,Miami,Houston,17,9,93503
+9,11/7/2021,New Orleans,Atlanta,25,27,59593
+9,11/7/2021,NY Giants,Las Vegas,23,16,63110
+9,11/7/2021,Carolina,New England,6,24,73476
+9,11/7/2021,Jacksonville,Buffalo,9,6,71785
+9,11/7/2021,Baltimore,Minnesota,34,31,60232
+9,11/7/2021,Philadelphia,LA Chargers,24,27,69170
+9,11/7/2021,Kansas City,Green Bay,13,7,74512
+9,11/7/2021,San Francisco,Arizona,17,31,69796
+9,11/7/2021,LA Rams,Tennessee,16,28,60788
+9,11/8/2021,Pittsburgh,Chicago,29,27,59012
+10,11/11/2021,Miami,Baltimore,22,10,62400
+10,11/14/2021,Dallas,Atlanta,43,3,93436
+10,11/14/2021,Tennessee,New Orleans,23,21,76766
+10,11/14/2021,Indianapolis,Jacksonville,23,17,78235
+10,11/14/2021,New England,Cleveland,45,7,60622
+10,11/14/2021,NY Jets,Buffalo,45,17,70240
+10,11/14/2021,Pittsburgh,Detroit,16,16,62125
+10,11/14/2021,Washington,Tampa Bay,29,19,65948
+10,11/14/2021,Arizona,Carolina,10,34,65878
+10,11/14/2021,LA Chargers,Minnesota,20,27,77626
+10,11/14/2021,Denver,Philadelphia,13,30,58716
+10,11/14/2021,Green Bay,Seattle,17,0,64256
+10,11/14/2021,Las Vegas,Kansas City,14,41,69414
+10,11/15/2021,San Francisco,LA Rams,31,10,52128
+11,11/18/2021,Atlanta,New England,0,25,68286
+11,11/21/2021,Buffalo,Indianapolis,15,41,69866
+11,11/21/2021,Chicago,Baltimore,13,16,73350
+11,11/21/2021,Cleveland,Detroit,13,10,60679
+11,11/21/2021,Tennessee,Houston,13,22,67431
+11,11/21/2021,Minnesota,Green Bay,34,31,60268
+11,11/21/2021,NY Jets,Miami,17,24,73494
+11,11/21/2021,Philadelphia,New Orleans,40,29,70240
+11,11/21/2021,Carolina,Washington,21,27,61712
+11,11/21/2021,Jacksonville,San Francisco,10,30,66959
+11,11/21/2021,Las Vegas,Cincinnati,13,32,72303
+11,11/21/2021,Kansas City,Dallas,19,9,69796
+11,11/21/2021,Seattle,Arizona,13,23,68833
+11,11/21/2021,LA Chargers,Pittsburgh,41,37,65643
+11,11/22/2021,Tampa Bay,NY Giants,30,10,67395
+12,11/25/2021,Detroit,Chicago,14,16,70355
+12,11/25/2021,Dallas,Las Vegas,33,36,63238
+12,11/25/2021,New Orleans,Buffalo,6,31,73494
+12,11/28/2021,Cincinnati,Pittsburgh,41,10,75807
+12,11/28/2021,Indianapolis,Tampa Bay,31,38,56355
+12,11/28/2021,Miami,Carolina,33,10,77948
+12,11/28/2021,New England,Tennessee,36,13,65120
+12,11/28/2021,NY Giants,Philadelphia,13,7,66140
+12,11/28/2021,Jacksonville,Atlanta,14,21,60031
+12,11/28/2021,Houston,NY Jets,14,21,62389
+12,11/28/2021,Denver,LA Chargers,28,13,65878
+12,11/28/2021,Green Bay,LA Rams,36,28,69170
+12,11/28/2021,San Francisco,Minnesota,34,26,73969
+12,11/28/2021,Baltimore,Cleveland,16,10,71493
+12,11/29/2021,Washington,Seattle,15,15,52680
+13,12/2/2021,New Orleans,Dallas,17,27,60803
+13,12/5/2021,Atlanta,Tampa Bay,17,30,69694
+13,12/5/2021,Chicago,Arizona,22,33,60803
+13,12/5/2021,Cincinnati,LA Chargers,22,41,51414
+13,12/5/2021,Detroit,Minnesota,29,27,45691
+13,12/5/2021,Miami,NY Giants,20,9,65291
+13,12/5/2021,NY Jets,Philadelphia,18,33,73185
+13,12/5/2021,Houston,Indianapolis,0,31,70801
+13,12/5/2021,Las Vegas,Washington,15,17,61607
+13,12/5/2021,LA Rams,Jacksonville,37,7,65898
+13,12/5/2021,Pittsburgh,Baltimore,20,19,69170
+13,12/5/2021,Seattle,San Francisco,30,23,65120
+13,12/5/2021,Kansas City,Denver,22,9,59303
+13,12/6/2021,Buffalo,New England,10,14,68758
+14,12/9/2021,Minnesota,Pittsburgh,36,28,63999
+14,12/12/2021,Cleveland,Baltimore,24,22,72243
+14,12/12/2021,Tennessee,Jacksonville,20,0,50481
+14,12/12/2021,Kansas City,Las Vegas,48,9,67431
+14,12/12/2021,NY Jets,New Orleans,9,30,76211
+14,12/12/2021,Washington,Dallas,20,27,78273
+14,12/12/2021,Carolina,Atlanta,21,29,67610
+14,12/12/2021,Houston,Seattle,13,33,73278
+14,12/12/2021,Denver,Detroit,38,10,70240
+14,12/12/2021,LA Chargers,NY Giants,37,21,66718
+14,12/12/2021,Cincinnati,San Francisco,23,26,69129
+14,12/12/2021,Tampa Bay,Buffalo,33,27,71918
+14,12/12/2021,Green Bay,Chicago,45,30,67808
+14,12/13/2021,Arizona,LA Rams,23,30,61308
+15,12/16/2021,LA Chargers,Kansas City,28,34,70815
+15,12/18/2021,Indianapolis,New England,27,17,65398
+15,12/19/2021,Buffalo,Carolina,31,14,60082
+15,12/19/2021,Detroit,Arizona,30,12,67431
+15,12/19/2021,Miami,NY Jets,31,24,76134
+15,12/19/2021,NY Giants,Dallas,6,21,45211
+15,12/19/2021,Pittsburgh,Tennessee,19,13,66391
+15,12/19/2021,Jacksonville,Houston,16,30,60252
+15,12/19/2021,Denver,Cincinnati,10,15,70240
+15,12/19/2021,San Francisco,Atlanta,31,13,71565
+15,12/19/2021,Baltimore,Green Bay,30,31,66035
+15,12/19/2021,Tampa Bay,New Orleans,0,9,77413
+15,12/20/2021,Cleveland,Las Vegas,14,16,69796
+15,12/20/2021,Chicago,Minnesota,9,17,59521
+15,12/21/2021,LA Rams,Seattle,20,10,71650
+15,12/21/2021,Philadelphia,Washington,27,17,65744
+16,12/23/2021,Tennessee,San Francisco,20,17,63900
+16,12/25/2021,Green Bay,Cleveland,24,22,68638
+16,12/25/2021,Arizona,Indianapolis,16,22,71918
+16,12/26/2021,Atlanta,Detroit,20,16,63922
+16,12/26/2021,Cincinnati,Baltimore,41,21,93482
+16,12/26/2021,Minnesota,LA Rams,23,30,77901
+16,12/26/2021,New England,Buffalo,21,33,65674
+16,12/26/2021,NY Jets,Jacksonville,26,21,73371
+16,12/26/2021,Philadelphia,NY Giants,34,10,60972
+16,12/26/2021,Carolina,Tampa Bay,6,32,66708
+16,12/26/2021,Houston,LA Chargers,41,29,65878
+16,12/26/2021,Seattle,Chicago,24,25,69170
+16,12/26/2021,Kansas City,Pittsburgh,36,10,67120
+16,12/26/2021,Las Vegas,Denver,17,13,69796
+16,12/26/2021,Dallas,Washington,56,14,68492
+16,12/27/2021,New Orleans,Miami,3,20,69361
+17,1/2/2022,Buffalo,Atlanta,29,15,70328
+17,1/2/2022,Chicago,NY Giants,29,3,64948
+17,1/2/2022,Cincinnati,Kansas City,34,31,59594
+17,1/2/2022,Tennessee,Miami,34,3,64505
+17,1/2/2022,Indianapolis,Las Vegas,20,23,93459
+17,1/2/2022,New England,Jacksonville,50,10,77832
+17,1/2/2022,NY Jets,Tampa Bay,24,28,65985
+17,1/2/2022,Washington,Philadelphia,16,20,70240
+17,1/2/2022,Baltimore,LA Rams,19,20,65878
+17,1/2/2022,LA Chargers,Denver,34,13,69170
+17,1/2/2022,San Francisco,Houston,23,7,72243
+17,1/2/2022,Dallas,Arizona,22,25,63624
+17,1/2/2022,New Orleans,Carolina,18,10,71612
+17,1/2/2022,Seattle,Detroit,51,29,68043
+17,1/2/2022,Green Bay,Minnesota,37,10,69091
+17,1/3/2022,Pittsburgh,Cleveland,26,14,51563
+18,1/8/2022,Denver,Kansas City,24,28,63858
+18,1/8/2022,Philadelphia,Dallas,26,51,68336
+18,1/9/2022,Cleveland,Cincinnati,21,16,70453
+18,1/9/2022,Detroit,Green Bay,37,30,64783
+18,1/9/2022,Minnesota,Chicago,31,17,67431
+18,1/9/2022,NY Giants,Washington,7,22,76012
+18,1/9/2022,Jacksonville,Indianapolis,26,11,56735
+18,1/9/2022,Baltimore,Pittsburgh,13,16,66722
+18,1/9/2022,Houston,Tennessee,25,28,60516
+18,1/9/2022,Atlanta,New Orleans,20,30,74447
+18,1/9/2022,Buffalo,NY Jets,27,10,62068
+18,1/9/2022,LA Rams,San Francisco,24,27,66514
+18,1/9/2022,Miami,New England,33,24,66625
+18,1/9/2022,Arizona,Seattle,30,38,69923
+18,1/9/2022,Tampa Bay,Carolina,41,17,69796
+18,1/9/2022,Las Vegas,LA Chargers,35,32,65473

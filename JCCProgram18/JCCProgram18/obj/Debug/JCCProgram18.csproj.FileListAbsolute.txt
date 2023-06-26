@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\bin\Debug\JCCProgram18.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\bin\Debug\JCCProgram18.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram18\JCCProgram18\obj\Debug\JCCProgram18.frmNFL.resources

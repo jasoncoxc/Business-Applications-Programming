@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\bin\Debug\JCCProgram19.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\bin\Debug\JCCProgram19.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.Form1.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram19\JCCProgram19\obj\Debug\JCCProgram19.pdb
