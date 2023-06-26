@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCCProgram22", "JCCProgram22\JCCProgram22.csproj", "{A67EC103-D6E0-448C-AD16-CEAEA84B7113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67EC103-D6E0-448C-AD16-CEAEA84B7113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67EC103-D6E0-448C-AD16-CEAEA84B7113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67EC103-D6E0-448C-AD16-CEAEA84B7113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67EC103-D6E0-448C-AD16-CEAEA84B7113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD275D46-C2D9-421B-8D91-A422E55670D4}
+	EndGlobalSection
+EndGlobal

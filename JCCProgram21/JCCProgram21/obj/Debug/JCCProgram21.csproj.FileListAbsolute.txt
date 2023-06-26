@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\bin\Debug\JCCProgram21.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\bin\Debug\JCCProgram21.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.Form1.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram21\JCCProgram21\obj\Debug\JCCProgram21.pdb
