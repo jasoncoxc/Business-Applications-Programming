@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\bin\Debug\JCCProgram10.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\bin\Debug\JCCProgram10.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.frmSoccer.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram10\JCCProgram10\obj\Debug\JCCProgram10.pdb

@@ -1,0 +1,9 @@
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\bin\Debug\JCCProgram11.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\bin\Debug\JCCProgram11.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.csprojAssemblyReference.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.Properties.Resources.resources
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.csproj.GenerateResource.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.csproj.CoreCompileInputs.cache
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.exe
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.pdb
+C:\Users\jcjcb\OneDrive\Desktop\DSU\Business Applications Programming\JCCProgram11\JCCProgram11\obj\Debug\JCCProgram11.frmTrack.resources
